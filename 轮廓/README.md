@@ -10,18 +10,20 @@
 ###### 商務合作:animetaglobal@gmail.com
 # 项目信息
 ###### 项目LOGO
-###### [Animeta WhitePaper - CN.docx](https://github.com/AnimetaGlobal/.github/files/9230398/Animeta.WhitePaper.-.CN.docx)
-###### [Animeta WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9230400/Animeta.WhitePaper.-.EN.docx)
-###### [Animeta WhitePaper - JP.docx](https://github.com/AnimetaGlobal/.github/files/9230403/Animeta.WhitePaper.-.JP.docx)
+###### [Animeta WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9238824/Animeta.WhitePaper.-.EN.docx)
+
+###### [Animeta WhitePaper - JP.docx](https://github.com/AnimetaGlobal/.github/files/9238826/Animeta.WhitePaper.-.JP.2.docx)
+
+###### [Animeta WhitePaper - CN.docx](https://github.com/AnimetaGlobal/.github/files/9238827/Animeta.WhitePaper.-.CN.docx)
+
 # 常见问题
 ##### 1.在新手有哪些关键术语需要了解？
-###### 以下是在NFT领域使用的关键术语清单，在你开始之前回顾一下是很有帮助的。不可伪造的代币(NFTs) - 不可伪造的代币(NFTs)是独特的、具有区块链管理所有权的数字项目。NFTs的例子包括数字艺术、收藏品、虚拟现实项目、加密域名、实物资产的所有权记录等等。关于NFTs的进一步信息，以及我们是如何走到这一步的，请阅读我们的首席执行官一直很受欢迎的概述。ETH – 以太坊是一个区块链，而ETH是用于在以太坊区块链上进行交易的货币。
+###### 以下是在NFT领域使用的关键术语清单，在你开始之前回顾一下是很有帮助的。不可伪造的代币(NFTs) - 不可伪造的代币(NFTs)是独特的、具有区块链管理所有权的数字项目。NFTs的例子包括数字艺术、收藏品、虚拟现实项目、加密域名、实物资产的所有权记录等等。关于NFTs的进一步信息，以及我们是如何走到这一步的，请阅读我们的首席执行官一直很受欢迎的概述。
+###### ETH – 以太坊是一个区块链，而ETH是用于在以太坊区块链上进行交易的货币。
 ###### BSC – 币安是一个区块链，而BNB是用于在BSC区块链上进行交易的货币。
 ###### HECO – 火币是一个区块链，而HT是用于在火币区块链上进行交易的货币。
-###### GSA费- 将GAS费视为区块链交易成本。ANIMETA在设置气体费用方面没有发言权--它们由整个区块链网络的供应/需求决定。
-###### 隐匿式钱包– 加密货币钱包是一种应用程序或硬件设备，允许个人存储和检索数字资产。
+###### GSA费- 将GAS费视为区块链交易成本。ANIMETA在设置gas费用方面没有发言权--它们由整个区块链网络的供应/需求决定。
 ###### 钱包地址– 你的钱包地址是唯一的。它是人们向你的加密货币钱包发送加密货币或NFT时将使用的地址。
-###### 助记词短语-你的助记词是一个单词列表，如果你忘记密码或失去对钱包的访问，可以用来恢复你的加密货币。当你第一次开始用你的钱包进行交易时，找到你的助记词并把它备份到安全的地方，如果可能的话，在多个地方备份。不要将你的助记词存储在在线云存储服务上，也不要与任何人分享它
 ##### 2.如何出售NFT？
 ###### 若要将NFT上架销售，我们的团队会先对内容进行审核，确保其符合上架标准。该过程通常需要4-8小时。审核通过后，NFT将立即在交易市场上架。您可以根据个人偏好将其设定为拍卖或定价出售。此外，也可以选择在固定时间（不早于获批后12小时）上架NFT
 ##### 3.什么是非同质化代币(NFT)？
@@ -49,8 +51,6 @@
 ###### 您的艺术品或收藏品圖片
 ###### 儲蓄数字货币的数字货币钱包
 ###### 给您作品取上一個响亮的名字
-###### 在我们平台您需要链接您的数字钱包，我们推荐使用「Metamask」。
-###### ![image](https://user-images.githubusercontent.com/109650699/182060997-2b303655-cf0b-4f52-b328-98893148b1a0.png)
 ###### 点击「创作」进入创作中心。
 ###### 您依次填入基础信息NFT的「名称」和「介绍」，它可以帮助购买者了解作品及其价值。其中外部链接URL為选填选项，此項目的詳細信息頁面上包含指向此 URL 的链接，以便用戶可以单击以了解更多信息。
 ###### ![image](https://user-images.githubusercontent.com/109650699/182061034-6b400553-3413-4b9e-ab60-0eef2d4f18cb.png)
