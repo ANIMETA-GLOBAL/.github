@@ -10,7 +10,7 @@
 ###### 商务合作:animetaglobal@gmail.com
 # 项目信息
 ###### 项目LOGO
-###### [Animeta WhitePaper - EN修改版.docx](https://github.com/AnimetaGlobal/.github/files/9279979/Animeta.WhitePaper.-.EN.docx)
+###### [Animeta WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9279979/Animeta.WhitePaper.-.EN.docx)
 ###### [Animeta WhitePaper - JP.docx](https://github.com/AnimetaGlobal/.github/files/9238826/Animeta.WhitePaper.-.JP.2.docx)
 ###### [Animeta WhitePaper - CN.docx](https://github.com/AnimetaGlobal/.github/files/9279975/Animeta.WhitePaper.-.CN.docx)
 
