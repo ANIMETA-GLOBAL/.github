@@ -15,7 +15,7 @@
 ###### [Animeta WhitePaper-EN.pptx](https://github.com/AnimetaGlobal/.github/files/9306884/Animeta.WhitePaper-EN.pptx)
 
 ###### [Animeta WhitePaper-CN.pptx](https://github.com/AnimetaGlobal/.github/files/9306895/Animeta.WhitePaper-CN.pptx)
-###### [Animeta WhitePaper - JP.pptx](https://github.com/AnimetaGlobal/.github/files/9306897/Animeta.WhitePaper.-.JP.pptx)
+###### [Animeta WhitePaper-JP.pptx](https://github.com/AnimetaGlobal/.github/files/9306897/Animeta.WhitePaper.-.JP.pptx)
 
 # 常见问题
 ##### 1.在新手有哪些关键术语需要了解？
