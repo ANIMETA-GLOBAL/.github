@@ -14,7 +14,6 @@
 ###### 项目LOGO
 ###### [Animeta WhitePaper - JP.docx](https://github.com/AnimetaGlobal/.github/files/9307754/Animeta.WhitePaper.-.JP.docx)
 ###### [Animeta WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9307756/Animeta.WhitePaper.-.EN.docx)
-###### [Animeta WhitePaper - CN.docx](https://github.com/AnimetaGlobal/.github/files/9307758/Animeta.WhitePaper.-.CN.docx)
 # 常见问题
 ##### 1.在新手有哪些关键术语需要了解？
 ###### 以下是在NFT领域使用的关键术语清单，在你开始之前回顾一下是很有帮助的。不可伪造的代币(NFTs) - 不可伪造的代币(NFTs)是独特的、具有区块链管理所有权的数字项目。NFTs的例子包括数字艺术、收藏品、虚拟现实项目、加密域名、实物资产的所有权记录等等。关于NFTs的进一步信息，以及我们是如何走到这一步的，请阅读我们的概述。
