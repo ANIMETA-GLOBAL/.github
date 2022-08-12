@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/109650699/184284606-0292b1fb-5fc0-4839
 ###### 3. Give your work a resounding name.
 ###### Click "Creation" to enter the Creation Center.
 ###### You fill in the "Name" and "Introduction" of the basic information NFT, which can help buyers understand the work and its value. Where external link URL is optional and a link to this URL is included on the detail page for this item so that users can click for more information.
-###### ![创建nft-1 – 2](https://user-images.githubusercontent.com/109650699/184275677-c9b32184-6823-4429-9454-e8ebcf6c5895.png)
+###### ![dea87131a5abb295e80c431529a44df](https://user-images.githubusercontent.com/109650699/184332541-6091bcfc-52e9-4cf9-82b1-8d3b30588810.png)
 
 ###### You need to create your own collection. You can click "Create New Series" to fill in the data related to the series.
 ###### When creating a series, you can fill in the royalty between 10-30%. The NFT in the series will get a royalty as long as it trades once in the platform. The royalty is calculated according to the turnover. To create a series, you need to select a chain and a currency. If you want to create your own NFT, the ANIMETA Marketplace is an excellent choice. All you need to do is fill in the details of the NFT, upload a digital artwork or file. If you need to sell NFT, you can also quickly put it into the NFT market. Before you create your own NFT, you need to prepare: your artwork or collectible images, your digital currency wallet for saving digital currency, and give your work a resounding name on our platform.
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/109650699/184284606-0292b1fb-5fc0-4839
 ###### ![上传其他nft](https://user-images.githubusercontent.com/109650699/184275830-069373f1-50c2-401f-aa7e-ee8a3e265973.png)
 
 ###### To enter the Creation Center.Enter your contract address.
-###### ![上传其他nft – 2](https://user-images.githubusercontent.com/109650699/184275865-58f8db55-260c-4bc2-b634-cd12448bcf4a.png)
+###### ![36ff8a7cda377895dcb4df9c3193263](https://user-images.githubusercontent.com/109650699/184332434-a8cd84a5-05d7-4167-be91-d85b4e5cec08.png)
 
 ##### How to buy and sell NFTs?
 ###### If you want to buy NFTs, you can search in the NFTs market or filter in the left tab, find your favorite NFT, click to enter the details page to buy or bid, you can see the transaction, auction and NFTs details in the NFT details page.
