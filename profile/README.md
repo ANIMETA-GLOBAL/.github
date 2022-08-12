@@ -28,7 +28,7 @@
 ###### You will pay 2% -5% platform fee +% of royalty charged by NFT author (Royalty is set by NFT creator)
 ##### 5. Can rewards be extracted in real time? ？
 ###### Yes, the reward obtained by the user can be withdrawn at any time.
-# announcement
+# announcement 
 ###### [Advertising screening plan.xls](https://github.com/AnimetaGlobal/.github/files/9230424/Advertising.screening.plan.xls)
 ###### [animeta-Monthly media publicity plan.xlsx](https://github.com/AnimetaGlobal/.github/files/9230426/animeta-Monthly.media.publicity.plan.xlsx)
 # User Guide
@@ -49,30 +49,38 @@
 ###### 3. Give your work a resounding name.
 ###### Click "Creation" to enter the Creation Center.
 ###### You fill in the "Name" and "Introduction" of the basic information NFT, which can help buyers understand the work and its value. Where external link URL is optional and a link to this URL is included on the detail page for this item so that users can click for more information.
-###### ![image](https://user-images.githubusercontent.com/109650699/182061034-6b400553-3413-4b9e-ab60-0eef2d4f18cb.png)
+###### ![创建nft-1 – 2](https://user-images.githubusercontent.com/109650699/184275677-c9b32184-6823-4429-9454-e8ebcf6c5895.png)
+
 ###### You need to create your own collection. You can click "Create New Series" to fill in the data related to the series.
 ###### When creating a series, you can fill in the royalty between 10-30%. The NFT in the series will get a royalty as long as it trades once in the platform. The royalty is calculated according to the turnover. To create a series, you need to select a chain and a currency. If you want to create your own NFT, the ANIMETA Marketplace is an excellent choice. All you need to do is fill in the details of the NFT, upload a digital artwork or file. If you need to sell NFT, you can also quickly put it into the NFT market. Before you create your own NFT, you need to prepare: your artwork or collectible images, your digital currency wallet for saving digital currency, and give your work a resounding name on our platform.
 ##### How to import NFTs?
 ###### If you already have an NFT, you can import it through a contract. Click "Creation" 
-###### ![image](https://user-images.githubusercontent.com/109650699/182062277-fff2e0fe-1c12-4e61-9fd0-fa7555a903dc.png)
+###### ![上传其他nft](https://user-images.githubusercontent.com/109650699/184275830-069373f1-50c2-401f-aa7e-ee8a3e265973.png)
+
 ###### to enter the Creation Center.Enter your contract address.
-###### ![image](https://user-images.githubusercontent.com/109650699/182062315-059f8aad-8006-43ab-a80d-2d28ffc59c23.png)
+###### ![上传其他nft – 2](https://user-images.githubusercontent.com/109650699/184275865-58f8db55-260c-4bc2-b634-cd12448bcf4a.png)
+
 ##### How to buy and sell NFTs?
 ###### If you want to buy NFTs, you can search in the NFTs market or filter in the left tab, find your favorite NFT, click to enter the details page to buy or bid, you can see the transaction, auction and NFTs details in the NFT details page.
-###### ![image](https://user-images.githubusercontent.com/109650699/182062608-3ace6a78-9b0b-4b1d-aa4f-1df3fe4534fc.png)
+###### ![微信图片_20220812103835](https://user-images.githubusercontent.com/109650699/184277798-593b7644-174e-4a6d-acb5-419d387e53d6.jpg)
+
 ###### Auction Purchase:
 ###### After you bid, the price is stored in the ANIMETA platform. If the next person bids, the money will be automatically transferred back to your platform ID. When the bidding is successful, NFT will be transferred to your platform ID.
-###### ![image](https://user-images.githubusercontent.com/109650699/182062685-e39e0344-b751-4cb0-80f3-de690879a269.png)
+###### ![微信图片_20220812103835](https://user-images.githubusercontent.com/109650699/184277943-c77c5dc1-dfde-4377-9ce2-b9802a2dd717.jpg)
+
 ###### Buy at one price:
 ###### When you purchase NFT normally or cannot import NFT purchased on other platforms normally, and your NFT cannot be found in My Project, you can search the name of the NFT and enter the details page to retrieve the NFT without paying for it.
-###### ![image](https://user-images.githubusercontent.com/109650699/182062727-014cb241-c91d-4717-9e2a-487ec47bf2ed.png)
+###### ![藏品详情 – 上链信息展开（购买者查看） – 3](https://user-images.githubusercontent.com/109650699/184278153-cc501c90-8b1d-440b-a5d0-5ac33bfc29c7.png)
+
 ###### When you purchase NFT normally or cannot import NFT purchased on other platforms normally, and your NFT cannot be found in My Project, you can search the name of the NFT and enter the details page to retrieve the NFT without paying for it.
-###### ![image](https://user-images.githubusercontent.com/109650699/182062771-428da81a-082e-48e3-90d2-2817b1e7c8fe.png)
+
 ###### When you want to sell an NFT, you can find the NFT you want to sell in My Projects, click on the NFT you wish to sell, go to the NFT details page and click Sell, or edit the NFTs (only NFTs that have not been sold, only the creator of that NFT).
 ###### My NFT:
-###### ![image](https://user-images.githubusercontent.com/109650699/182062884-771276b8-4fac-42d2-916c-e702887459cb.png)
+###### ![微信图片_20220812103817](https://user-images.githubusercontent.com/109650699/184278322-d6da1905-b4e7-4763-8d32-846a2a0d4ac2.jpg)
+
 ###### Sale page:
-###### ![image](https://user-images.githubusercontent.com/109650699/182062909-151c7f96-8606-4a10-8bbc-d00066c9b170.png)
+###### ![出售 – 1](https://user-images.githubusercontent.com/109650699/184278404-01b2f483-2698-4c7e-b6e6-290ebdca9fc4.png)
+
 ###### You can choose to sell at one price or auction to sell at one price. You need to fill in the price you want to sell and the currency. The auction needs you to fill in the NFT auction base price and the currency. Both selling methods need to fill out the time range. The maximum time is not more than one month. In the process of auction and sale, if no one bids or buys, You can cancel the sale at any time (not possible when the NFT holding address changes).
 ## A description of the royalties
 ###### NFT royalties ensure that artists are always fairly rewarded for their work. This article takes you through the basics and explains how to earn passive income using NFT royalties. If you are an artist, you want to cast your first NFT. You have many things to consider, such as price, royalties, and so on. In this article, we will address the issue of "royalties.". What are they, how do they work, and what should your royalty percentage be? NFT is a tamper-proof proof of ownership where every transaction is stored and visible on the memory blockchain, making it possible to include royalties on every sale between now and the end of time! What is royalty? ？ Each time an intellectual property (IP) is resold, a sales royalty provides the creator of the IP with a percentage of the sale. While this is difficult to perform outside of the NFT space, in-memory blockchains and smart contracts automate the process, making it easier to collect royalties. When you are authoring an NFT, you set the royalty percentage to 10 to 30%. You set it up as you wish, and each time you resell, you don't need to do anything else to get royalties from each resale. Thanks to the in-memory blockchain and smart contracts, all royalties are automatically deposited directly into your platform ID when your NFT is resold. You can't change it once it's set, so make sure you set it! Suppose you are an unknown artist with every piece. Sell your art for $10. Some time has passed, and you are finally famous! All of you $10 Art Now Resales for $10,000! If you set the royalty to 0%, then you will get no royalty proceeds, but if you set it to 10%, you will get $1000 for every $10000 resold!
