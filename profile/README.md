@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/109650699/184279177-931f65ce-1863-436c
 ###### You will pay 2% -5% platform fee +% of royalty charged by NFT author (Royalty is set by NFT creator)
 ##### 5. Can rewards be extracted in real time? ？
 ###### Yes, the reward obtained by the user can be withdrawn at any time.
-# announcement 
+# Announcement 
 ###### [Advertising screening plan.xls](https://github.com/AnimetaGlobal/.github/files/9230424/Advertising.screening.plan.xls)
 ###### [animeta-Monthly media publicity plan.xlsx](https://github.com/AnimetaGlobal/.github/files/9230426/animeta-Monthly.media.publicity.plan.xlsx)
 # User Guide
