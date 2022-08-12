@@ -12,8 +12,8 @@ https://user-images.githubusercontent.com/109650699/184279177-931f65ce-1863-436c
 ###### ANIMETAglobal@gmail.com.
 # Project information
 ###### Project Logo
-###### [Animeta WhitePaper - JP.docx](https://github.com/ANIMETA-GLOBAL/.github/files/9313306/Animeta.WhitePaper.-.JP.3.docx)
-###### [Animeta WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9307756/Animeta.WhitePaper.-.EN.docx)
+###### [ANIMETA WhitePaper - JP.docx](https://github.com/ANIMETA-GLOBAL/.github/files/9313306/Animeta.WhitePaper.-.JP.3.docx)
+###### [ANIMETA WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9307756/Animeta.WhitePaper.-.EN.docx)
 # Frequently asked questions（FAQ）
 ##### 1. What are the key terms to know for beginners? ？
 ###### The following is a list of key terms used in the NFT space, and it is helpful to review them before you begin. Non-Forgeable Tokens (NFTs). Non-Forgeable Tokens (NFTs) are unique, digital items with blockchain management ownership. Examples of NFTs include digital art, collectibles, virtual reality projects, encrypted domain names, ownership records of physical assets, and more. For further information on NFTs and how we got here, read our overview.
@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/109650699/184279177-931f65ce-1863-436c
 ###### Yes, the reward obtained by the user can be withdrawn at any time.
 # Announcement 
 ###### [Advertising screening plan.xls](https://github.com/AnimetaGlobal/.github/files/9230424/Advertising.screening.plan.xls)
-###### [animeta-Monthly media publicity plan.xlsx](https://github.com/AnimetaGlobal/.github/files/9230426/animeta-Monthly.media.publicity.plan.xlsx)
+###### [ANIMETA-Monthly media publicity plan.xlsx](https://github.com/AnimetaGlobal/.github/files/9230426/animeta-Monthly.media.publicity.plan.xlsx)
 # User Guide
 ##### What is NFT? 
 ###### The full name of NFT is Non-fungible-Token, which corresponds to FT (Fungible Token). With the support of memory block chain technology, it can be used as the chain right certificate of digital artworks, event tickets and other digital commodities. Each NFT is mapped to a unique serial number on a specific memory block chain, which cannot be tampered with, divided, or replaced. It is these qualities that make NFT an excellent vehicle for digital artworks. Each NFT represents a specific digital artwork or a single copy of it sold in limited quantities, recording its chain rights that cannot be tampered with. Therefore, NFT is essentially different from homogeneous tokens such as virtual currency, which is supported by the actual value of digital goods and does not have any attributes such as payment function. 
