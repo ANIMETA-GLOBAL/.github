@@ -11,7 +11,7 @@
 ###### animetaglobal@gmail.com.
 # Project information
 ###### Project Logo
-###### [Animeta WhitePaper - JP.docx](https://github.com/AnimetaGlobal/.github/files/9307754/Animeta.WhitePaper.-.JP.docx)
+###### [Animeta WhitePaper - JP.docx](https://github.com/ANIMETA-GLOBAL/.github/files/9313306/Animeta.WhitePaper.-.JP.3.docx)
 ###### [Animeta WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9307756/Animeta.WhitePaper.-.EN.docx)
 # Frequently asked questions（FAQ）
 ##### 1. What are the key terms to know for beginners? ？
