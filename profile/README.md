@@ -91,5 +91,5 @@ https://user-images.githubusercontent.com/109650699/184279177-931f65ce-1863-436c
 ###### 1. Upload your artwork to create NFT。
 ###### 2. As you NFT creators choose a royalty percentage of 0-10%.
 ###### 3. ANIMETA The first time someone buys your NFT, you will receive 100% of the sale price.
-###### 4. If your NFT is resold at ANIMETA and you will receive 10-30% of the resale price. 
+###### 4. If your NFT is resold at ANIMETA and you will receive 0-10% of the resale price. 
 ###### 5. You don't have to do anything to get royalties. Proceeds are automatically deposited directly into your wallet.
