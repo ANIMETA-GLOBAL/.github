@@ -2,7 +2,11 @@
 ###### Welcome your arrival.
 ###### Welcome to ANIMETA! Here , you will find all the information about what you need to know about ANIMETA! 
 # Introduction
-https://user-images.githubusercontent.com/71052209/184584355-1350e98d-f1c8-4d13-bd98-e798a3858c76.mp4
+
+
+https://user-images.githubusercontent.com/71052209/184584735-74c7fb64-e5d5-4e16-8bf3-ae49c9ec4f6f.mp4
+
+
 ## Vision
 #### It aims to help more creators launch their NFTs on the blockchain at the lowest price in a fair way.
 ###### It has been more than ten years since the birth of blockchain technology. With the vigorous promotion of different teams, blockchain projects emerge in an endless stream, but the enabling effect on economic life is not well reflected. Blockchain technology is a great revolution, but if a technology can not be put into practice and combined with applications in various fields, it is only a castle in the air. If we do not solve the problem of practical application, block chain technology will eventually become a testing ground for some concepts and fields and a paradise for speculators. As a pioneer in the blockchain industry, we have been thinking about how to give full play to the enabling role of blockchain technology in the economy, industry and life.
