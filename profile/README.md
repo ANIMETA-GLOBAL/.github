@@ -3,9 +3,7 @@
 ###### Welcome to ANIMETA! Here , you will find all the information about what you need to know about ANIMETA! 
 # Introduction
 
-
-https://user-images.githubusercontent.com/71052209/184584735-74c7fb64-e5d5-4e16-8bf3-ae49c9ec4f6f.mp4
-
+https://user-images.githubusercontent.com/71052209/184794264-e33bae98-b2cd-4a60-938b-9829641b61f6.mp4
 
 ## Vision
 #### It aims to help more creators launch their NFTs on the blockchain at the lowest price in a fair way.
