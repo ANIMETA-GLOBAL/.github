@@ -33,7 +33,8 @@ https://user-images.githubusercontent.com/71052209/184794264-e33bae98-b2cd-4a60-
 ###### Yes, the reward obtained by the user can be withdrawn at any time.
 # Announcement 
 ###### [Advertising screening plan.xls](https://github.com/AnimetaGlobal/.github/files/9230424/Advertising.screening.plan.xls)
-###### [ANIMETA-Monthly media publicity plan.xlsx](https://github.com/AnimetaGlobal/.github/files/9230426/animeta-Monthly.media.publicity.plan.xlsx)
+###### [ANIMETA-Monthly media publicity plan.xlsx](https://github.com/ANIMETA-GLOBAL/.github/files/9358111/ANIMETA-Monthly.media.publicity.plan.xlsx)
+
 # User Guide
 ##### What is NFT? 
 ###### The full name of NFT is Non-fungible-Token, which corresponds to FT (Fungible Token). With the support of memory block chain technology, it can be used as the chain right certificate of digital artworks, event tickets and other digital commodities. Each NFT is mapped to a unique serial number on a specific memory block chain, which cannot be tampered with, divided, or replaced. It is these qualities that make NFT an excellent vehicle for digital artworks. Each NFT represents a specific digital artwork or a single copy of it sold in limited quantities, recording its chain rights that cannot be tampered with. Therefore, NFT is essentially different from homogeneous tokens such as virtual currency, which is supported by the actual value of digital goods and does not have any attributes such as payment function. 
