@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/71052209/184794264-e33bae98-b2cd-4a60-
 ###### ANIMETAglobal@gmail.com
 # Project information
 ###### WhitePaper
-###### [Animeta WhitePaper-EN.pdf](https://github.com/ANIMETA-GLOBAL/.github/files/9449412/Animeta.WhitePaper-EN.20220829.pdf)
+###### [ANIMETA WhitePaper-EN.pdf](https://github.com/ANIMETA-GLOBAL/.github/files/9449412/Animeta.WhitePaper-EN.20220829.pdf)
 
 ###### [ANIMETA WhitePaper-JP.pdf](https://github.com/ANIMETA-GLOBAL/.github/files/9449415/ANIMETA.WhitePaper-JP.pdf)
 
