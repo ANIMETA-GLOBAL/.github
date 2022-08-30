@@ -13,10 +13,11 @@ https://user-images.githubusercontent.com/71052209/184794264-e33bae98-b2cd-4a60-
 # Contact us
 ###### ANIMETAglobal@gmail.com
 # Project information
-###### Project Logo
-###### [ANIMETA WhitePaper - JP.docx](https://github.com/ANIMETA-GLOBAL/.github/files/9313306/Animeta.WhitePaper.-.JP.3.docx)
-###### [ANIMETA WhitePaper - EN.docx](https://github.com/AnimetaGlobal/.github/files/9307756/Animeta.WhitePaper.-.EN.docx)
-# Frequently asked questions（FAQ）
+###### WhitePaper
+###### [Animeta WhitePaper-EN.pdf](https://github.com/ANIMETA-GLOBAL/.github/files/9449412/Animeta.WhitePaper-EN.20220829.pdf)
+
+###### [ANIMETA WhitePaper-JP.pdf](https://github.com/ANIMETA-GLOBAL/.github/files/9449415/ANIMETA.WhitePaper-JP.pdf)
+
 ##### 1. What are the key terms to know for beginners? ？
 ###### The following is a list of key terms used in the NFT space, and it is helpful to review them before you begin. Non-Forgeable Tokens (NFTs). Non-Forgeable Tokens (NFTs) are unique, digital items with blockchain management ownership. Examples of NFTs include digital art, collectibles, virtual reality projects, encrypted domain names, ownership records of physical assets, and more. For further information on NFTs and how we got here, read our overview.
 ###### ETH – Ethereum is a blockchain, and ETH is the currency used to make transactions on the Ethereum blockchain.
